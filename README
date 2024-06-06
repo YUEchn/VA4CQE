@@ -25,6 +25,7 @@ vis_repo
 - install dependencies
 
 In the VA4CQE/back directory, run: `npm install`
+
 In the VA4CQE/vis directory, run: `npm install`
 
 ### start it
@@ -33,6 +34,4 @@ In the VA4CQE/vis directory, run: `npm install`
 
 - start frontend(VA4CQE/vis), run: `npm run dev`
 
-- check the status of VA4CQE
-
-`http://x.x.x.x:8081`
+- check the status of VA4CQE：`http://x.x.x.x:8081`
