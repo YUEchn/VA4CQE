@@ -1,0 +1,642 @@
+{
+  "title": "6--transitfeed-1.1.3",
+  "children": [
+    {
+      "title": "examples",
+      "value": "dir",
+      "fileDir": "examples",
+      "children": [
+        {
+          "title": "shuttle_from_xmlfeed.py",
+          "value": "file",
+          "fileDir": "examples/shuttle_from_xmlfeed.py",
+          "metrics": {
+            "security_rating": "A",
+            "duplicated_blocks": "0",
+            "sqale_rating": "A",
+            "duplicated_lines": "0",
+            "vulnerabilities": "0",
+            "code_smells": "3",
+            "duplicated_lines_density": "0.0",
+            "lines": "134",
+            "comment_lines_density": "23.3",
+            "cognitive_complexity": "19",
+            "duplicated_files": "0",
+            "reliability_rating": "A",
+            "bugs": "0"
+          },
+          "duplications": []
+        },
+        {
+          "title": "shuttle_from_xmlfeed.xml",
+          "value": "file",
+          "fileDir": "examples/shuttle_from_xmlfeed.xml",
+          "metrics": {
+            "comment_lines_density": "0.0",
+            "bugs": "0",
+            "duplicated_blocks": "0",
+            "reliability_rating": "A",
+            "duplicated_lines_density": "0.0",
+            "sqale_rating": "A",
+            "vulnerabilities": "0",
+            "lines": "30",
+            "duplicated_lines": "0",
+            "cognitive_complexity": "0",
+            "code_smells": "0",
+            "duplicated_files": "0",
+            "security_rating": "A"
+          },
+          "duplications": []
+        },
+        {
+          "title": "small_builder.py",
+          "value": "file",
+          "fileDir": "examples/small_builder.py",
+          "metrics": {
+            "duplicated_files": "0",
+            "security_rating": "A",
+            "duplicated_lines_density": "0.0",
+            "duplicated_lines": "0",
+            "comment_lines_density": "10.7",
+            "duplicated_blocks": "0",
+            "code_smells": "0",
+            "bugs": "0",
+            "vulnerabilities": "0",
+            "reliability_rating": "A",
+            "cognitive_complexity": "0",
+            "sqale_rating": "A",
+            "lines": "40"
+          },
+          "duplications": []
+        },
+        {
+          "title": "table.py",
+          "value": "file",
+          "fileDir": "examples/table.py",
+          "metrics": {
+            "duplicated_lines_density": "0.0",
+            "security_rating": "A",
+            "lines": "177",
+            "vulnerabilities": "0",
+            "duplicated_lines": "0",
+            "duplicated_files": "0",
+            "code_smells": "8",
+            "reliability_rating": "A",
+            "duplicated_blocks": "0",
+            "cognitive_complexity": "44",
+            "comment_lines_density": "39.3",
+            "sqale_rating": "A",
+            "bugs": "0"
+          },
+          "duplications": []
+        }
+      ],
+      "metrics": {
+        "sqale_rating": "A",
+        "duplicated_lines": "0",
+        "security_rating": "A",
+        "duplicated_blocks": "0",
+        "lines": "381",
+        "cognitive_complexity": "63",
+        "vulnerabilities": "0",
+        "duplicated_files": "0",
+        "code_smells": "11",
+        "bugs": "0",
+        "comment_lines_density": "27.6",
+        "reliability_rating": "A",
+        "duplicated_lines_density": "0.0"
+      }
+    },
+    {
+      "title": "feedvalidator.py",
+      "value": "file",
+      "fileDir": "feedvalidator.py",
+      "metrics": {
+        "code_smells": "6",
+        "cognitive_complexity": "46",
+        "lines": "285",
+        "duplicated_files": "0",
+        "duplicated_lines": "0",
+        "reliability_rating": "A",
+        "bugs": "0",
+        "security_rating": "A",
+        "comment_lines_density": "10.9",
+        "duplicated_blocks": "0",
+        "vulnerabilities": "0",
+        "sqale_rating": "A",
+        "duplicated_lines_density": "0.0"
+      },
+      "duplications": []
+    },
+    {
+      "title": "gtfsscheduleviewer",
+      "value": "dir",
+      "fileDir": "gtfsscheduleviewer",
+      "children": [
+        {
+          "title": "files",
+          "value": "dir",
+          "fileDir": "gtfsscheduleviewer/files",
+          "children": [
+            {
+              "title": "index.html",
+              "value": "file",
+              "fileDir": "gtfsscheduleviewer/files/index.html",
+              "metrics": {
+                "reliability_rating": "A",
+                "lines": "641",
+                "comment_lines_density": "0.0",
+                "sqale_rating": "A",
+                "code_smells": "1",
+                "duplicated_files": "0",
+                "cognitive_complexity": "0",
+                "duplicated_lines": "0",
+                "bugs": "0",
+                "duplicated_blocks": "0",
+                "security_rating": "A",
+                "duplicated_lines_density": "0.0",
+                "vulnerabilities": "0"
+              },
+              "duplications": []
+            },
+            {
+              "title": "labeled_marker.js",
+              "value": "file",
+              "fileDir": "gtfsscheduleviewer/files/labeled_marker.js",
+              "metrics": {
+                "duplicated_lines_density": "0.0",
+                "comment_lines_density": "33.6",
+                "duplicated_files": "0",
+                "code_smells": "0",
+                "cognitive_complexity": "19",
+                "duplicated_lines": "0",
+                "sqale_rating": "A",
+                "reliability_rating": "A",
+                "bugs": "0",
+                "duplicated_blocks": "0",
+                "security_rating": "A",
+                "lines": "186",
+                "vulnerabilities": "0"
+              },
+              "duplications": []
+            }
+          ],
+          "metrics": {
+            "duplicated_blocks": "0",
+            "reliability_rating": "A",
+            "duplicated_lines": "0",
+            "lines": "972",
+            "comment_lines_density": "5.4",
+            "sqale_rating": "A",
+            "duplicated_files": "0",
+            "security_rating": "A",
+            "duplicated_lines_density": "0.0",
+            "cognitive_complexity": "19",
+            "code_smells": "1",
+            "bugs": "0",
+            "vulnerabilities": "0"
+          }
+        },
+        {
+          "title": "marey_graph.py",
+          "value": "file",
+          "fileDir": "gtfsscheduleviewer/marey_graph.py",
+          "metrics": {
+            "duplicated_files": "0",
+            "duplicated_lines_density": "0.0",
+            "lines": "470",
+            "duplicated_lines": "0",
+            "sqale_rating": "A",
+            "code_smells": "27",
+            "bugs": "0",
+            "security_rating": "A",
+            "duplicated_blocks": "0",
+            "cognitive_complexity": "53",
+            "comment_lines_density": "40.7",
+            "vulnerabilities": "0",
+            "reliability_rating": "A"
+          },
+          "duplications": []
+        },
+        {
+          "title": "__init__.py",
+          "value": "file",
+          "fileDir": "gtfsscheduleviewer/__init__.py",
+          "metrics": {
+            "security_rating": "A",
+            "bugs": "0",
+            "lines": "9",
+            "sqale_rating": "A",
+            "reliability_rating": "A",
+            "cognitive_complexity": "0",
+            "comment_lines_density": "0.0",
+            "vulnerabilities": "0",
+            "duplicated_lines_density": "0.0",
+            "duplicated_lines": "0",
+            "duplicated_files": "0",
+            "duplicated_blocks": "0",
+            "code_smells": "0"
+          },
+          "duplications": []
+        }
+      ],
+      "metrics": {
+        "lines": "1451",
+        "sqale_rating": "A",
+        "vulnerabilities": "0",
+        "bugs": "0",
+        "code_smells": "28",
+        "cognitive_complexity": "72",
+        "security_rating": "A",
+        "duplicated_lines_density": "0.0",
+        "reliability_rating": "A",
+        "comment_lines_density": "17.2",
+        "duplicated_files": "0",
+        "duplicated_blocks": "0",
+        "duplicated_lines": "0"
+      }
+    },
+    {
+      "title": "kmlparser.py",
+      "value": "file",
+      "fileDir": "kmlparser.py",
+      "metrics": {
+        "duplicated_lines": "0",
+        "lines": "134",
+        "duplicated_lines_density": "0.0",
+        "comment_lines_density": "37.2",
+        "security_rating": "A",
+        "duplicated_blocks": "0",
+        "bugs": "0",
+        "duplicated_files": "0",
+        "cognitive_complexity": "22",
+        "code_smells": "13",
+        "vulnerabilities": "0",
+        "sqale_rating": "A",
+        "reliability_rating": "A"
+      },
+      "duplications": []
+    },
+    {
+      "title": "kmlwriter.py",
+      "value": "file",
+      "fileDir": "kmlwriter.py",
+      "metrics": {
+        "duplicated_lines_density": "0.0",
+        "lines": "593",
+        "duplicated_lines": "0",
+        "duplicated_files": "0",
+        "vulnerabilities": "0",
+        "security_rating": "A",
+        "reliability_rating": "A",
+        "sqale_rating": "A",
+        "cognitive_complexity": "83",
+        "bugs": "0",
+        "duplicated_blocks": "0",
+        "comment_lines_density": "47.0",
+        "code_smells": "18"
+      },
+      "duplications": []
+    },
+    {
+      "title": "merge.py",
+      "value": "file",
+      "fileDir": "merge.py",
+      "metrics": {
+        "reliability_rating": "A",
+        "bugs": "0",
+        "comment_lines_density": "45.0",
+        "security_rating": "A",
+        "lines": "1671",
+        "duplicated_lines_density": "0.0",
+        "duplicated_blocks": "0",
+        "duplicated_lines": "0",
+        "cognitive_complexity": "143",
+        "sqale_rating": "A",
+        "vulnerabilities": "0",
+        "code_smells": "35",
+        "duplicated_files": "0"
+      },
+      "duplications": []
+    },
+    {
+      "title": "schedule_viewer.py",
+      "value": "file",
+      "fileDir": "schedule_viewer.py",
+      "metrics": {
+        "vulnerabilities": "0",
+        "sqale_rating": "A",
+        "duplicated_files": "0",
+        "duplicated_lines": "0",
+        "cognitive_complexity": "102",
+        "bugs": "0",
+        "code_smells": "13",
+        "reliability_rating": "A",
+        "duplicated_lines_density": "0.0",
+        "comment_lines_density": "18.1",
+        "duplicated_blocks": "0",
+        "lines": "477",
+        "security_rating": "A"
+      },
+      "duplications": []
+    },
+    {
+      "title": "setup.py",
+      "value": "file",
+      "fileDir": "setup.py",
+      "metrics": {
+        "security_rating": "A",
+        "duplicated_lines_density": "0.0",
+        "reliability_rating": "A",
+        "bugs": "0",
+        "duplicated_blocks": "0",
+        "code_smells": "0",
+        "lines": "90",
+        "vulnerabilities": "0",
+        "cognitive_complexity": "2",
+        "duplicated_files": "0",
+        "sqale_rating": "A",
+        "duplicated_lines": "0",
+        "comment_lines_density": "33.3"
+      },
+      "duplications": []
+    },
+    {
+      "title": "test",
+      "value": "dir",
+      "fileDir": "test",
+      "children": [
+        {
+          "title": "data",
+          "value": "dir",
+          "fileDir": "test/data",
+          "children": [
+            {
+              "title": "missing_row_cells",
+              "value": "dir",
+              "fileDir": "test/data/missing_row_cells",
+              "children": [
+                {
+                  "title": "validation-results.html",
+                  "value": "file",
+                  "fileDir": "test/data/missing_row_cells/validation-results.html",
+                  "metrics": {
+                    "comment_lines_density": "0.0",
+                    "duplicated_lines_density": "0.0",
+                    "security_rating": "A",
+                    "sqale_rating": "A",
+                    "code_smells": "0",
+                    "cognitive_complexity": "0",
+                    "vulnerabilities": "0",
+                    "reliability_rating": "C",
+                    "duplicated_lines": "0",
+                    "lines": "51",
+                    "bugs": "2",
+                    "duplicated_blocks": "0",
+                    "duplicated_files": "0"
+                  },
+                  "duplications": []
+                }
+              ],
+              "metrics": {
+                "bugs": "2",
+                "duplicated_lines_density": "0.0",
+                "duplicated_lines": "0",
+                "cognitive_complexity": "0",
+                "duplicated_files": "0",
+                "code_smells": "0",
+                "duplicated_blocks": "0",
+                "vulnerabilities": "0",
+                "comment_lines_density": "0.0",
+                "security_rating": "A",
+                "sqale_rating": "A",
+                "reliability_rating": "C",
+                "lines": "51"
+              }
+            }
+          ],
+          "metrics": {
+            "lines": "0",
+            "comment_lines_density": "0",
+            "bugs": "0",
+            "security_rating": "A",
+            "cognitive_complexity": "0",
+            "duplicated_files": "0",
+            "duplicated_lines_density": "0",
+            "duplicated_lines": "0",
+            "vulnerabilities": "0",
+            "reliability_rating": "E",
+            "sqale_rating": "A",
+            "duplicated_blocks": "0",
+            "code_smells": "0"
+          }
+        },
+        {
+          "title": "testexamples.py",
+          "value": "file",
+          "fileDir": "test/testexamples.py",
+          "metrics": {
+            "security_rating": "A",
+            "duplicated_blocks": "0",
+            "duplicated_lines_density": "0.0",
+            "bugs": "1",
+            "cognitive_complexity": "5",
+            "sqale_rating": "A",
+            "code_smells": "3",
+            "lines": "60",
+            "vulnerabilities": "0",
+            "comment_lines_density": "8.5",
+            "reliability_rating": "E",
+            "duplicated_lines": "0",
+            "duplicated_files": "0"
+          },
+          "duplications": []
+        },
+        {
+          "title": "testfeedvalidator.py",
+          "value": "file",
+          "fileDir": "test/testfeedvalidator.py",
+          "metrics": {
+            "security_rating": "A",
+            "duplicated_lines_density": "0.0",
+            "duplicated_blocks": "0",
+            "duplicated_files": "0",
+            "bugs": "0",
+            "lines": "49",
+            "vulnerabilities": "0",
+            "reliability_rating": "A",
+            "comment_lines_density": "33.3",
+            "sqale_rating": "A",
+            "code_smells": "2",
+            "duplicated_lines": "0",
+            "cognitive_complexity": "1"
+          },
+          "duplications": []
+        },
+        {
+          "title": "testkmlparser.py",
+          "value": "file",
+          "fileDir": "test/testkmlparser.py",
+          "metrics": {
+            "code_smells": "3",
+            "security_rating": "A",
+            "duplicated_lines": "0",
+            "bugs": "0",
+            "duplicated_blocks": "0",
+            "duplicated_files": "0",
+            "lines": "66",
+            "comment_lines_density": "24.5",
+            "cognitive_complexity": "1",
+            "reliability_rating": "A",
+            "duplicated_lines_density": "0.0",
+            "vulnerabilities": "0",
+            "sqale_rating": "A"
+          },
+          "duplications": []
+        },
+        {
+          "title": "testkmlwriter.py",
+          "value": "file",
+          "fileDir": "test/testkmlwriter.py",
+          "metrics": {
+            "duplicated_lines_density": "0.0",
+            "vulnerabilities": "0",
+            "code_smells": "2",
+            "sqale_rating": "A",
+            "comment_lines_density": "13.1",
+            "cognitive_complexity": "7",
+            "reliability_rating": "A",
+            "duplicated_blocks": "0",
+            "duplicated_files": "0",
+            "duplicated_lines": "0",
+            "lines": "353",
+            "security_rating": "A",
+            "bugs": "0"
+          },
+          "duplications": []
+        },
+        {
+          "title": "testmerge.py",
+          "value": "file",
+          "fileDir": "test/testmerge.py",
+          "metrics": {
+            "sqale_rating": "A",
+            "duplicated_blocks": "0",
+            "reliability_rating": "A",
+            "bugs": "0",
+            "cognitive_complexity": "19",
+            "code_smells": "9",
+            "vulnerabilities": "0",
+            "duplicated_files": "0",
+            "comment_lines_density": "11.2",
+            "duplicated_lines_density": "0.0",
+            "lines": "1217",
+            "security_rating": "A",
+            "duplicated_lines": "0"
+          },
+          "duplications": []
+        },
+        {
+          "title": "testtransitfeed.py",
+          "value": "file",
+          "fileDir": "test/testtransitfeed.py",
+          "metrics": {
+            "code_smells": "11",
+            "duplicated_blocks": "2",
+            "bugs": "0",
+            "cognitive_complexity": "62",
+            "duplicated_files": "1",
+            "sqale_rating": "A",
+            "security_rating": "A",
+            "lines": "2158",
+            "comment_lines_density": "8.2",
+            "duplicated_lines": "37",
+            "reliability_rating": "A",
+            "vulnerabilities": "0",
+            "duplicated_lines_density": "1.7"
+          },
+          "duplications": [
+            {
+              "blocks": [
+                { "from": 1330, "size": 18, "_ref": "1" },
+                { "from": 1465, "size": 19, "_ref": "1" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "util.py",
+          "value": "file",
+          "fileDir": "test/util.py",
+          "metrics": {
+            "sqale_rating": "A",
+            "duplicated_blocks": "0",
+            "cognitive_complexity": "10",
+            "code_smells": "0",
+            "lines": "83",
+            "comment_lines_density": "37.1",
+            "bugs": "0",
+            "vulnerabilities": "0",
+            "duplicated_lines_density": "0.0",
+            "reliability_rating": "A",
+            "duplicated_files": "0",
+            "duplicated_lines": "0",
+            "security_rating": "A"
+          },
+          "duplications": []
+        }
+      ],
+      "metrics": {
+        "comment_lines_density": "10.5",
+        "duplicated_files": "1",
+        "bugs": "3",
+        "reliability_rating": "E",
+        "sqale_rating": "A",
+        "lines": "4037",
+        "duplicated_blocks": "2",
+        "security_rating": "A",
+        "duplicated_lines_density": "0.9",
+        "duplicated_lines": "37",
+        "code_smells": "30",
+        "cognitive_complexity": "105",
+        "vulnerabilities": "0"
+      }
+    },
+    {
+      "title": "transitfeed.py",
+      "value": "file",
+      "fileDir": "transitfeed.py",
+      "metrics": {
+        "duplicated_files": "0",
+        "bugs": "0",
+        "cognitive_complexity": "607",
+        "code_smells": "154",
+        "duplicated_blocks": "0",
+        "duplicated_lines_density": "0.0",
+        "reliability_rating": "A",
+        "sqale_rating": "A",
+        "comment_lines_density": "15.6",
+        "lines": "2758",
+        "security_rating": "A",
+        "duplicated_lines": "0",
+        "vulnerabilities": "0"
+      },
+      "duplications": []
+    }
+  ],
+  "metrics": {
+    "duplicated_lines": "37",
+    "comment_lines_density": "20.8",
+    "security_rating": "A",
+    "lines": "11877",
+    "sqale_rating": "A",
+    "bugs": "3",
+    "cognitive_complexity": "1245",
+    "duplicated_blocks": "2",
+    "duplicated_files": "1",
+    "vulnerabilities": "0",
+    "duplicated_lines_density": "0.3",
+    "code_smells": "308",
+    "reliability_rating": "E"
+  }
+}

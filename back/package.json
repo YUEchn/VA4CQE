@@ -1,0 +1,19 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diff2html": "^3.4.3",
+    "express": "^4.17.1",
+    "node-cmd": "^4.0.0",
+    "shelljs": "^0.8.4",
+    "simple-git": "^2.38.0"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "transitfeed-1.0.7": {
+     "lines": 6675 ,
+     "ncloc": 4783 ,
+     "statements": 3447 ,
+     "files": 14 ,
+     "classes": 96 ,
+     "metrics": 225 
+  },
+  "transitfeed-1.0.8": {
+     "classes": 96 ,
+     "lines": 6740 ,
+     "files": 15 ,
+     "statements": 3468 ,
+     "ncloc": 4825 ,
+     "metrics": 227 
+  },
+  "transitfeed-1.0.9": {
+     "lines": 7201 ,
+     "statements": 3694 ,
+     "ncloc": 5148 ,
+     "classes": 103 ,
+     "files": 19 ,
+     "metrics": 234 
+  },
+  "transitfeed-1.1.0": {
+     "files": 21 ,
+     "lines": 7522 ,
+     "classes": 107 ,
+     "statements": 3851 ,
+     "ncloc": 5381 ,
+     "metrics": 241 
+  },
+  "transitfeed-1.1.1": {
+     "files": 21 ,
+     "statements": 4141 ,
+     "ncloc": 5775 ,
+     "classes": 116 ,
+     "lines": 8022 ,
+     "metrics": 249 
+  },
+  "transitfeed-1.1.2": {
+     "statements": 4505 ,
+     "ncloc": 6254 ,
+     "files": 22 ,
+     "lines": 8804 ,
+     "classes": 122 ,
+     "metrics": 265 
+  },
+  "transitfeed-1.1.3": {
+     "files": 24 ,
+     "lines": 11877 ,
+     "classes": 166 ,
+     "ncloc": 8072 ,
+     "statements": 6054 ,
+     "metrics": 311 
+  },
+  "transitfeed-1.1.4": {
+     "classes": 169 ,
+     "files": 25 ,
+     "lines": 12272 ,
+     "ncloc": 8342 ,
+     "statements": 6237 ,
+     "metrics": 328 
+  },
+  "transitfeed-1.1.5": {
+     "ncloc": 8651 ,
+     "statements": 6481 ,
+     "lines": 12689 ,
+     "files": 26 ,
+     "classes": 174 ,
+     "metrics": 347 
+  },
+  "transitfeed-1.1.6": {
+     "files": 29 ,
+     "statements": 7444 ,
+     "ncloc": 9788 ,
+     "lines": 14417 ,
+     "classes": 191 ,
+     "metrics": 419 
+  },
+  "transitfeed-1.1.7": {
+     "statements": 8422 ,
+     "files": 30 ,
+     "lines": 16156 ,
+     "ncloc": 11104 ,
+     "classes": 211 ,
+     "metrics": 487 
+  },
+  "transitfeed-1.1.8": {
+     "classes": 211 ,
+     "lines": 16238 ,
+     "files": 30 ,
+     "statements": 8471 ,
+     "ncloc": 11165 ,
+     "metrics": 490 
+  },
+  "transitfeed-1.1.9": {
+     "classes": 211 ,
+     "statements": 8471 ,
+     "lines": 16238 ,
+     "ncloc": 11165 ,
+     "files": 30 ,
+     "metrics": 490 
+  },
+  "transitfeed-1.2.0": {
+     "files": 31 ,
+     "lines": 17494 ,
+     "statements": 9232 ,
+     "classes": 225 ,
+     "ncloc": 12065 ,
+     "metrics": 511 
+  },
+  "transitfeed-1.2.1": {
+     "files": 33 ,
+     "classes": 232 ,
+     "lines": 18235 ,
+     "ncloc": 12596 ,
+     "statements": 9653 ,
+     "metrics": 517 
+  },
+  "transitfeed-1.2.2": {
+     "ncloc": 13592 ,
+     "classes": 248 ,
+     "statements": 10390 ,
+     "lines": 19522 ,
+     "files": 34 ,
+     "metrics": 556 
+  },
+  "transitfeed-1.2.4": {
+     "lines": 20746 ,
+     "classes": 264 ,
+     "ncloc": 14383 ,
+     "statements": 10939 ,
+     "files": 37 ,
+     "metrics": 568 
+  },
+  "transitfeed-1.2.5": {
+     "lines": 20746 ,
+     "classes": 264 ,
+     "ncloc": 14383 ,
+     "statements": 10939 ,
+     "files": 37 ,
+     "metrics": 568 
+  },
+  "transitfeed-1.2.6": {
+     "ncloc": 17150 ,
+     "statements": 13185 ,
+     "files": 56 ,
+     "classes": 291 ,
+     "lines": 25055 ,
+     "metrics": 684 
+  },
+  "transitfeed-1.2.7": {
+     "lines": 27809 ,
+     "classes": 322 ,
+     "ncloc": 18955 ,
+     "files": 72 ,
+     "statements": 14474 ,
+     "metrics": 737 
+  },
+  "transitfeed-1.2.8": {
+     "classes": 323 ,
+     "ncloc": 19040 ,
+     "statements": 14529 ,
+     "lines": 27859 ,
+     "files": 70 ,
+     "metrics": 743 
+  },
+  "transitfeed-1.2.9": {
+     "statements": 14529 ,
+     "lines": 27859 ,
+     "classes": 323 ,
+     "ncloc": 19040 ,
+     "files": 70 ,
+     "metrics": 743 
+  },
+  "transitfeed-1.2.10": {
+     "lines": 27888 ,
+     "ncloc": 19063 ,
+     "files": 70 ,
+     "classes": 323 ,
+     "statements": 14546 ,
+     "metrics": 743 
+  },
+  "transitfeed-1.2.11": {
+     "files": 70 ,
+     "classes": 323 ,
+     "ncloc": 19164 ,
+     "statements": 14623 ,
+     "lines": 28075 ,
+     "metrics": 749 
+  },
+  "transitfeed-1.2.12": {
+     "files": 70 ,
+     "statements": 14625 ,
+     "ncloc": 19170 ,
+     "lines": 28081 ,
+     "classes": 323 ,
+     "metrics": 749 
+  },
+  "transitfeed-github": {
+     "ncloc": 19247 ,
+     "classes": 323 ,
+     "statements": 14693 ,
+     "lines": 28205 ,
+     "files": 70 ,
+     "metrics": 751 
+  },
+  "transitfeed-1.2.3": {
+     "classes": 323 ,
+     "lines": 28207 ,
+     "statements": 14695 ,
+     "ncloc": 19248 ,
+     "files": 70 ,
+     "metrics": 752 
+  },
+  "transitfeed-1.2.13": {
+     "lines": 28369 ,
+     "statements": 14777 ,
+     "classes": 324 ,
+     "ncloc": 19349 ,
+     "files": 74 ,
+     "metrics": 748 
+  },
+  "transitfeed-1.2.14": {
+     "statements": 15215 ,
+     "ncloc": 19345 ,
+     "files": 91 ,
+     "lines": 28757 ,
+     "classes": 324 ,
+     "metrics": 763 
+  },
+  "transitfeed-1.2.15": {
+     "lines": 28821 ,
+     "files": 91 ,
+     "classes": 326 ,
+     "ncloc": 19403 ,
+     "statements": 15248 ,
+     "metrics": 763 
+  },
+  "transitfeed-1.2.16": {
+     "files": 92 ,
+     "ncloc": 19754 ,
+     "statements": 15492 ,
+     "classes": 326 ,
+     "lines": 29417 ,
+     "metrics": 764 
+  }
+}
