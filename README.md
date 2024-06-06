@@ -1,7 +1,9 @@
 ### introduction
-VA4CQE is a visual analytics system for software project quality evolution
+VA4CQE is a visual analytics system for software project quality evolution.
 
 ![Example Image](/VA4CQE.png)``
+
+[Demo](https://youtu.be/vCWHlrgteV4)
 
 #### project directory
 ```
